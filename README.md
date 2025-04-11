@@ -4,8 +4,14 @@ WiseJ 3.5 Hybrid로 Android, IOS 개발을 위한 VS2022 설치 내용
 ![poster](./img2.png)
 
 
+sql 빌드에러시 (참조 삭제하고 빌드)
+
 ![poster](./img1.png)
 
+
+Wisej 빌드에러시 (참조 변경하고 빌드)
+<PackageReference Include="Wisej-3-Hybrid-Native" Version="3.5.*-*" />
+<PackageReference Include="Wisej-3-Hybrid-Native" Version="3.5.17" />
 
 ![poster](./img3.png)
 
