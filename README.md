@@ -10,10 +10,12 @@ sql 빌드에러시 (참조 삭제하고 빌드)
 
 
 Wisej 빌드에러시 (참조 변경하고 빌드)
-'''html
-<PackageReference Include="Wisej-3-Hybrid-Native" Version="3.5.*-*" />
-<PackageReference Include="Wisej-3-Hybrid-Native" Version="3.5.17" />
-''''
+
+"Wisej-3-Hybrid-Native" Version="3.5.*-*"
+<p>
+"Wisej-3-Hybrid-Native" Version="3.5.17" 
+
+  
 ![poster](./img3.png)
 
 ![poster](./img4.png)
